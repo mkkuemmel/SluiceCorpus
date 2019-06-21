@@ -41,4 +41,6 @@ COMPUTATIONAL DATA ANNOTATION: <br/>
 	the last verbal element was compared to the manually annotated embedding verb (column I) to see if they are the 
 	same (‘y’/’n’).
 - Prediction (column S): A specifically built Sluice-detector can make predictions about a sentence being a sluice 
-	or not. (see readme above)
+	or not. (see https://github.com/mkkuemmel/EllipsisDetection)
+
+
