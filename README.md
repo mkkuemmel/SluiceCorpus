@@ -1,5 +1,9 @@
 # WhFinCor - wh-final corpus
 
+Please cite:<br/>
+Kümmel, Miriam. 2019. Automatic Ellipsis Detection - Machine Learning vs. Rule-Based Document Classification. Master Thesis. University of Konstanz - Germany
+
+
 "Ich habe sie genehmigt, aber ich kann nicht mehr genau sagen, wann."
 
 36 search queries containing 36 german wh-phrases were run on the two source corpora (https://www.dwds.de/r)<br/>
